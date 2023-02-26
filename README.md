@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7935D8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Victor;I'm+20+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/LeonardoRafaelDev">
+  <a href="https://github.com/PedroVictor022">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroVictor022&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVictor022&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -18,7 +18,7 @@
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{PedroVictor022}/count.svg" /></p> 
 <br>
 </div>
 
