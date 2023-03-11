@@ -2,6 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7935D8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Victor;I'm+20+years+old;I+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  <a href="https://github.com/PedroVictor022">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroVictor022&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVictor022&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<hr>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PedroVictor022&bg_color=000000&color=ffffff&line=ff00ee&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   <a href="https://www.instagram.com/_borges031/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
